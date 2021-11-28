@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(238, 211, 184);
+}
+h1{
+    color:red;
+    font-weight: 500;
+}
+
+h5{
+    color: red;
+}
+figure{
+    float: left;
+}
+p{
+    padding: 20px 0px 20px 0px;
+}
